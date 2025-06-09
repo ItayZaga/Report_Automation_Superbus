@@ -59,6 +59,7 @@ Report files are empty by default. The input data files contain fictitious data 
 ## Getting Started
 
 1. Open the file `macro BI.xlsm`
+   - The main menu will open automatically. To reopen it later, reopen the worksheet named **"פתיחת תפריט"** ("Open Menu").
 2. Load the required input files
 3. Select the desired report from the interface
 4. If event log exclusion is selected, load the Event Log file
